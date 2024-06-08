@@ -1,0 +1,13 @@
+-- PLAN FOR JASPER --
+
+- init.lua --done
+- basic libraries
+- a shell
+- basic commands in a /cmd/ folder
+
+
+-- more advanced shit --
+
+- A (atleast somewhat) graphical interface
+- file manager
+- package manager
